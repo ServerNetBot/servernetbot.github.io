@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="/styles/style.css" />
+        <title>ServerNet - Commands</title>
+        <link rel="shortcut icon" href="/styles/favicon.ico" />
+    </head>
+
+    <meta content="ServerNet - Commands" property="og:title">
+    <meta content="The official servernet website" property="og:description">
+    <meta content="https://servernet.github.io/commands">
+
+    <div class="topnav">
+        <a href="../index">Home</a>
+        <a href="../commands">Commands</a>
+        <a href="../forms">Links</a>
+        <a href="../rules">Rules</a>
+        <a href="../staff">Staff</a>
+    </div>
+
+    <div class="topnav">
+        <a class="active" href="blacklistinfo">blacklistinfo</a>
+    </div>
+
+    <body>
+        <h1>blacklistinfo command</h1>
+        <h1>Required Level</h1>
+        <p>Anyone can use the command</p>
+        <h1>Required Arguments</h1>
+        <li>None</li>
+        <h1>Possible arguments</h1>
+        <li>userid</li>
+        <h1>About this command</h1>
+        <p>
+            This command gets a users blacklist status. If a user is provided it is theirs otherwise it displays the person who used the commands status.
+        </p>
+    </body>
+</html>
