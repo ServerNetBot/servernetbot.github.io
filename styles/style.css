@@ -95,3 +95,8 @@ a:visited {
 a:link {
     color: #6494e0;
 }
+
+.right {
+    position: absolute;
+    right: 20px;
+}
